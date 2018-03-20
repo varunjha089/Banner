@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "311399799122",
+    "firebase_url": "https://admob-banner-example-64617.firebaseio.com",
+    "project_id": "admob-banner-example-64617",
+    "storage_bucket": "admob-banner-example-64617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311399799122:android:3a973ed50a2fb6aa",
+        "android_client_info": {
+          "package_name": "com.example.varunkumar.admobbannerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311399799122-oogtt5lt6gb4i6hrvqqklcdldt4en192.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdKgturWzvi0tvDyouiQ56zx9Fr8cHIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
